@@ -23,11 +23,11 @@ A desktop application that unlocks Scribd document previews, allowing users to a
 ## Installation
 
 ### Download Executable
-1. Navigate to the `/dist` folder in this repository
-2. Download the appropriate executable for your operating system
+1. Check the [Releases](https://github.com/amblackpearl/ScribdUnlocker/releases) section for the latest downloadable executable
+2. Download the appropriate executable file
 3. Run the executable directly (no installation required)
 
-*Note: The application is currently distributed via direct download from the `/dist` folder as we establish automated release workflows.*
+*Note: The application is available for download in the Releases section of this repository.* 
 
 ## Usage
 
